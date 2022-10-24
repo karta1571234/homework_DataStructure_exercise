@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package strategypattern;
-
+import strategypattern.strategy2.*;
 /**
  *
  * @author karta
@@ -31,6 +31,19 @@ public class StrategyPattern {
         cal1.setStrategy(Calculator.DoType.MULTYPLY);
         int result_multyply=cal1.execute(55, 10);
         System.out.println("calculator multyply mode (55*10)="+result_multyply);
+    
+        PriceCalculator cal2=new PriceCalculator();
+        
+        BusStrategy bs=new BusStrategy();
+        cal2.setStrategy(bs);
+        int result_getBusPrice=cal2.execute(30);
+        System.out.println("BusStrategy of PriceCalculator (30km)="+result_getBusPrice);
+    
+        MRTStrategy ms=new MRTStrategy();
+        cal2.setStrategy(ms);
+        int result_getMrtPrice=cal2.execute(30);
+        System.out.println("MRTStrategy of PriceCalculator (30km)="+result_getMrtPrice);
+        
     }
     
 }
