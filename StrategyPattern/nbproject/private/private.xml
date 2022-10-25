@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/karta/Documents/NetBeansProjects/DesignPattern/practice/StrategyPattern/src/strategypattern/IStrategy.java</file>
+            <file>file:/C:/Users/karta/Documents/NetBeansProjects/DesignPattern/practice/StrategyPattern/src/strategypattern/add.java</file>
+            <file>file:/C:/Users/karta/Documents/NetBeansProjects/DesignPattern/practice/StrategyPattern/src/strategypattern/strategy2/MRTStrategy.java</file>
+            <file>file:/C:/Users/karta/Documents/NetBeansProjects/DesignPattern/practice/StrategyPattern/src/strategypattern/minus.java</file>
+            <file>file:/C:/Users/karta/Documents/NetBeansProjects/DesignPattern/practice/StrategyPattern/src/strategypattern/strategy2/IStrategy.java</file>
+            <file>file:/C:/Users/karta/Documents/NetBeansProjects/DesignPattern/practice/StrategyPattern/src/strategypattern/Calculator.java</file>
+            <file>file:/C:/Users/karta/Documents/NetBeansProjects/DesignPattern/practice/StrategyPattern/src/strategypattern/strategy2/BusStrategy.java</file>
+            <file>file:/C:/Users/karta/Documents/NetBeansProjects/DesignPattern/practice/StrategyPattern/src/strategypattern/divide.java</file>
+            <file>file:/C:/Users/karta/Documents/NetBeansProjects/DesignPattern/practice/StrategyPattern/src/strategypattern/StrategyPattern.java</file>
+            <file>file:/C:/Users/karta/Documents/NetBeansProjects/DesignPattern/practice/StrategyPattern/src/strategypattern/multyply.java</file>
+            <file>file:/C:/Users/karta/Documents/NetBeansProjects/DesignPattern/practice/StrategyPattern/src/strategypattern/strategy2/PriceCalculator.java</file>
+        </group>
+    </open-files>
+</project-private>
