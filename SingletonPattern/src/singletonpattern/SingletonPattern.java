@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package singletonpattern;
+import singletonpattern.factory.*;
 
 /**
  *
@@ -14,7 +15,7 @@ public class SingletonPattern {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-
+        
     }
     
 }
