@@ -1,0 +1,43 @@
+設計模式 ( Design Pattern )
+https://ithelp.ithome.com.tw/articles/10201706
+
+建立型模式
+[ Day 2 ] 初探設計模式 - 工廠方法模式 (Factory Method Pattern)
+[ Day 5 ] 初探設計模式 - 單例模式 (Singleton)
+[ Day 10 ] 隨著自己想要的客製化 - 建造者模式 ( Builder Pattern)
+[ Day 14 ] 設定一次一勞永逸～原形模式 ( Prototype Pattern )
+[ Day 26 ] 做好自己會做的就好啦 ～抽象工廠模式 ( Abstract Factory )
+[ Day 27 ] 初探設計模式 - 建立型模式
+結構型模式
+[ Day 7 ] 初探設計模式 - 裝飾模式(Decorator)
+[ Day 12 ] 隨心所欲地重用不相容的類別～ - 轉接器模式 ( Adapter Pattern )
+[ Day 13 ] 自己不會沒關係～找一個代理人幫忙處理 - 代理模式 ( Proxy Pattern )
+[ Day 15 ] 整理出漂亮的介面 - 外觀模式 ( Facade Pattern )
+[ Day 18 ] 共用程式碼和物件～享元模式 ( Flyweight Pattern )
+[ Day 19 ] 一個是全部的部分～部分一個的集合 - 組合模式 ( Composite Pattern)
+[ Day 21 ] 你的東西就是我的東西！ - 橋接模式 ( Bridge Pattern )
+[ Day 28 ] 初探設計模式 - 結構型模式
+行為型模式
+[ Day 3 ] 初探設計模式 - 策略模式 (Strategy Pattern)[ Day 8 ] 初探設計模式 - 觀察者模式 ( Observer Pattern )
+
+[ Day 9 ] 初探設計模式 - 命令模式 ( Command Pattern )
+
+[ Day 11 ] 老闆這這樣說～你照著做就對了 - 範本方法模式 ( TemplateMethod Pattern )
+
+[ Day 16 ] 根據想要的(?)狀況自由選擇 - 狀態模式 ( State Pattern )
+
+[ Day 17 ] 簡單的Undo和Redo - 備忘錄模式 ( Memoto Pattern )
+
+[ Day 20 ] 這樣每個月發薪水就輕鬆啦！迭代器模式 ( Iterator Pattern )
+
+[ Day 22 ] 這件事誰能作主！ - 責任鍊模式 ( Chain of Responsibility Pattern )
+
+[ Day 23 ] 幫我跟那個誰喬一下 - 仲介者模式 ( Mediator Pattern )
+
+[ Day 24 ] 解釋一下這是什麼意思··· - 解譯器模式 ( Interpreter Pattern)
+
+[ Day 25 ] 每個人關心的點都不同 - 訪問者模式 (Visitor Pattern)
+
+[ Day 29 ] 初談設計模式 - 行為型模式(1)
+
+[ Day 30 ] 初探設計模式 - 行為型模式(2) & 完賽感言
